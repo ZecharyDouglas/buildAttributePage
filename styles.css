@@ -1,4 +1,9 @@
 .body {
+  margin-top: 10px;
+  margin-left: 3px;
+  margin-left: 3px;
+  margin-bottom: 10px;
+  width: 90%;
   display: flex;
   justify-content: center;
   text-align: center;
@@ -10,6 +15,10 @@
   padding-left: 100px;
   padding-right: 100px;
   padding-bottom: 50px;
+  align-items: right;
+  justify-content: right;
+  max-width: fit-content;
+  border-radius: 20px;
 }
 
 .j-timeline__box {
