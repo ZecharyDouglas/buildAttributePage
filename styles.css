@@ -1,0 +1,25 @@
+.body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(221, 225, 229);
+}
+
+.j-picture__box {
+  background-color: white;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+}
+
+.j-timeline__box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  align-items: center;
+  text-align: left;
+}
+
+.link {
+  color: rgb(17, 208, 154);
+}
